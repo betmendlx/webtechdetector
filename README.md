@@ -23,8 +23,8 @@ The Enhanced Web Tech Detector is a Python script that analyzes websites and det
 
 1. Clone this repository:
    ```
-   git clone https://github.com/betmendlx/enhanced-web-tech-detector.git
-   cd enhanced-web-tech-detector
+   git clone https://github.com/betmendlx/webtechdetector.git
+   cd webtechdetector
    ```
 
 2. Install the required Python packages:
@@ -37,7 +37,7 @@ The Enhanced Web Tech Detector is a Python script that analyzes websites and det
 Run the script using Python:
 
 ```
-python enhanced_webtechdetector.py
+python webtechdetector.py
 ```
 
 When prompted, enter the URL of the website you want to analyze. The script will display the detected technologies and features.
